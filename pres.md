@@ -22,6 +22,14 @@ We are international cancer researchers and clinicians working in the field of c
 
 Our goal is to increase HPV vaccination rates for cervical cancer prevention in India, so that it could later be adapted to other countries.
 
+#  
+
+<img src="pies.png">
+
+#  
+
+<img src="screen.png">
+
 # Stakeholders
 
 - Central and state governments
@@ -37,14 +45,14 @@ Our goal is to increase HPV vaccination rates for cervical cancer prevention in 
 
 For improved HPV vaccination rates, our target population will be 
 
-- children, 
-- 9-16 years old, 
-- in all schools nationwide, and also 
+- girls,
+- 11-16 years old,
+- in all public and private schools nationwide, and also
 - at the primary health center nationwide, on an ongoing basis.
 
 # Objectives
 
-1. Identify the stakeholders and form a working committee by 2019 that will validate the education program for kids and teachers by 2020.
+1. Identify the stakeholders and form a working committee by 2019 that will validate the education program for all stakeholders by 2020.
 2. Work with the central government to approve the HPV vaccination program by 2020 and implement it by 2021.
 3. Everyone involved will aim to vaccinate at least 40 percent of the population by 2022.
 
