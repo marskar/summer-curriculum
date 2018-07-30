@@ -52,13 +52,13 @@ For improved HPV vaccination rates, our target population will be
 
 # Objectives
 
-1. Identify the stakeholders and form a working committee by 2019 that will validate the education program for all stakeholders by 2020.
-2. Work with the central government to approve the HPV vaccination program by 2020 and implement it by 2021.
-3. Everyone involved will aim to vaccinate at least 40 percent of the population by 2022.
+1. Identify the stakeholders and form a working committee by 2019 that will validate the education program for parents, teachers and healthcare workers by 2020.
+2. Work with the central government to develop and approve the HPV vaccination program by 2020 and implement it by 2021.
+3. Vaccinate at least 40 percent of the population by 2022.
 
 # Education
 
-- Mass communication (TV, Newspapers, Radio, Internet)
+- Mass communication (TV, Newspapers, Radio, Social Media)
 - Involving celebrities for campaigning
 - Advertisements in 
     - public transportation, 
