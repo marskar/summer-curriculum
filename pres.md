@@ -24,11 +24,11 @@ Our goal is to increase HPV vaccination rates for cervical cancer prevention in 
 
 #  
 
-<img src="pies.png">
+![](pies.png)
 
 #  
 
-<img src="screen.png">
+![](screen.png)
 
 
 # Stakeholders
@@ -91,7 +91,8 @@ Impact: Over time, does India’s vaccination rate increase? Do cervical cancer 
 
 # 
 
-<img src="selfie.jpg">
+![](selfie.jpg)
+
 <audio controls>
     <source src="music.mp3" type="audio/mpeg">
 </audio>
