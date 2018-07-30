@@ -68,9 +68,9 @@ For improved HPV vaccination rates, our target population will be
 
 # Barriers
 
-- Cost
+- Cost of vaccines
 - Perception of adverse effects and risks
-- Allergies (to vaccines in general and yeast, which is a component of Gardasil)
+- Concerns about allergies (to vaccines in general and yeast and latex, which is a component of Gardasil)
 
 
 # Program Evaluation
