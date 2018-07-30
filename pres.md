@@ -1,6 +1,6 @@
 ---
 title: HPV vaccination in India
-subtitle: A case study for Summer Curriculum
+subtitle: A case study for Summer Curriculum by
 author:
 # - Monirath Hav
 # - Natalie Abrams
@@ -43,10 +43,9 @@ For improved HPV vaccination rates, our target population will be
 # Objectives
 
 1. Identify the stakeholders and form a working committee by 2019.
-2. Work with the central government to approve the HPV vaccination program for high schoolers by 2020.
-3. The working committee will pilot the program to validate the education program for kids and teachers by 2020.
-4. Work with the central government to implement the HPV vaccination program by 2021.
-5. Everyone involved will aim to vaccinate at least 40 percent of the population by 2022.
+2. The working committee will pilot the program to validate the education program for kids and teachers by 2020.
+3. Work with the central government to approve the HPV vaccination program for high schoolers by 2020 and implement the HPV vaccination program by 2021.
+4. Everyone involved will aim to vaccinate at least 40 percent of the population by 2022.
 
 # Education
 
