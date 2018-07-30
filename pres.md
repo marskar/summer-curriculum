@@ -13,7 +13,8 @@ author:
 # - Abhishek Chouthai
 - Martin Skarzynski, Jarrett Johnson
 date: July 30, 2018
-output: powerpoint_presentation
+output: revealjs_presentation
+fontsize: 12pt
 ---
 
 # Background
