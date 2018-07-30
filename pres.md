@@ -1,6 +1,6 @@
 ---
 title: HPV vaccination in India
-subtitle: A case study for Summer Curriculum by
+# subtitle: A case study for Summer Curriculum by
 author:
 # - Monirath Hav
 # - Natalie Abrams
@@ -18,7 +18,9 @@ fontsize: 12pt
 ---
 
 # Background
-We are international cancer researchers and clinicians working in the field of cancer prevention and that we have gathered some of our colleagues to develop a primary cancer prevention strategy. Our goal is to design the intervention in one country with the idea that it could later be adapted to other countries. Our goal is to increase HPV vaccination rates for cervical cancer prevention.
+We are international cancer researchers and clinicians working in the field of cancer prevention and that we have gathered some of our colleagues to develop a primary cancer prevention strategy. 
+
+Our goal is to increase HPV vaccination rates for cervical cancer prevention in India, so that it could later be adapted to other countries.
 
 # Stakeholders
 
@@ -42,10 +44,9 @@ For improved HPV vaccination rates, our target population will be
 
 # Objectives
 
-1. Identify the stakeholders and form a working committee by 2019.
-2. The working committee will pilot the program to validate the education program for kids and teachers by 2020.
-3. Work with the central government to approve the HPV vaccination program for high schoolers by 2020 and implement the HPV vaccination program by 2021.
-4. Everyone involved will aim to vaccinate at least 40 percent of the population by 2022.
+1. Identify the stakeholders and form a working committee by 2019 that will validate the education program for kids and teachers by 2020.
+2. Work with the central government to approve the HPV vaccination program by 2020 and implement it by 2021.
+3. Everyone involved will aim to vaccinate at least 40 percent of the population by 2022.
 
 # Education
 
@@ -71,7 +72,7 @@ For improved HPV vaccination rates, our target population will be
 - Cervical Cancer Incidence Rate (Long-Term)
     - by cancer registry program
 
-# Process, Outcome and Impact
+# Final Thoughts
 
 Process: Was a national strategy created? Was funding allocated? How many individuals saw the adverts?
 
