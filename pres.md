@@ -26,12 +26,14 @@ An effective national prevention program will be composed of strategies to reduc
 
 # Stakeholders
 
-- Central and state governments.
-- The district mayor
+- Central and state governments
+- Family and Health Welfare Ministry workers
+- The district mayors
 - Pediatrician / Gynecologist
 - School teachers
 - Primary healthcare workers
 - Parents
+- Patient Advocates
 
 # Target Population
 
@@ -39,16 +41,16 @@ For improved HPV vaccination rates, our target population will be
 
 - children, 
 - 9-16 years old, 
-- in all schools nationwide and also 
+- in all schools nationwide, and also 
 - at the primary health center nationwide, on an ongoing basis.
 
 # Objectives
 
-1. Identify the stakeholders and form a working committee by 2019.
-2. To approve the HPV vaccination program for high schoolers by 2020.
-3. Pilot program to valid the education program for kids and teachers.
-4. To implement the HPV vaccination program by 2021.
-5. To vaccinate at least 40 percent of the population by 2022.
+1. We will identify the stakeholders and form a working committee by 2019.
+2. We will work with the central government to approve the HPV vaccination program for high schoolers by 2020.
+3. The working committee will pilot the program to validate the education program for kids and teachers by 2020.
+4. We will work with the central government to implement the HPV vaccination program by 2021.
+5. Everyone involved will aim to vaccinate at least 40 percent of the population by 2022.
 
 # Education
 
@@ -66,14 +68,17 @@ For improved HPV vaccination rates, our target population will be
 - Perception of adverse effects and risks
 - Allergies (to vaccines in general and yeast, which is a component of Gardasil)
 
-The tanning bed and/or outdoor recreation industries may lobby against this campaign. Individuals may not be able to afford sunscreen. These barriers could be addressed by enlisting the support of health organizations and local leaders to gain public support for the campaign, and by subsidizing skin protection products for individuals receiving government welfare benefits.
 
 # 6. Program Evaluation
 
 - Vaccination rate (Short-Term)
+    - According to school and health center registries
 - Cervical Cancer Incidence Rate (Long-Term)
-- Eradication
+    - by cancer registry program
 
-Process: Was a national strategy created? Was funding allocated? How many posters were mailed, how many individuals saw the social media messages, how many individuals received free sunscreen?
-Outcome: Does the average school-age child apply sunscreen or wear a hat more frequently? Impact: Over years if not decades, do Australia’s melanoma incidence and mortality rates decline?
+Process: Was a national strategy created? Was funding allocated? How many individuals saw the adverts?
+
+Outcome: Did the average school-age child vaccination rate increase?
+
+Impact: Over time, does India’s vaccination rate increase? Do cervical cancer incidence rates decline?
 
