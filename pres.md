@@ -1,20 +1,17 @@
 ---
-title: HPV vaccination in India # and Nigeria
+title: HPV vaccination in India
 subtitle: A case study for Summer Curriculum
 author:
 # - Monirath Hav
 # - Natalie Abrams
-- Mukesh Shanthilal
+- LeAnn Perkins, Marisa Nimrod
+- Mukesh Shanthilal, Olusegun Biyi-Olutunde
 # - Vivian Fayer
 # - Kevin O'Hagan
 # - Michael Duley
-- Olusegun Biyi-Olutunde
 # - Nada Lahmidani
-- LeAnn Perkins
-- Marisa Nimrod
 # - Abhishek Chouthai
-- Martin Skarzynski
-- Jarrett Johnson
+- Martin Skarzynski, Jarrett Johnson
 date: July 30, 2018
 output: powerpoint_presentation
 ---
